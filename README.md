@@ -2,4 +2,5 @@
 Hi! 👋  
 I currently work with Infra, SysOps and DevOps at [Csitea](https://github.com/csitea), and manage my tech company [Komutilo](https://github.com/komutilo).  
 
-**Programming languages 👨‍💻** Python | C# | Javascript | Typescript
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=brunurd&layout=compact&langs_count=10&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=brunurd&layout=compact&langs_count=10&theme=radical)
