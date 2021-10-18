@@ -1,14 +1,24 @@
-<!-- TODO: Resume -->
-<!-- TODO: Ludography -->
-<!-- TODO: Open Source highlights -->
-<!-- TODO: Learning highlights -->
+## Bruno Araujo's profile
+Hi 👋! I currently work with Infra, SysOps and DevOps at [Csitea](https://github.com/csitea), and manage my tech company [Komutilo](https://github.com/komutilo).  
+_...Além disso, inventei de começar a fazer streaming de live coding e game art na twitch em [https://twitch.tv/pezaoshow](https://twitch.tv/pezaoshow)._
 
-<p align="center">
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunurd&layout=compact&langs_count=6&theme=radical"/>&nbsp;&nbsp;
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=brunurd&count_private=true&show_icons=true&hide=issues&theme=radical"/>
-</p>
+---
 
-<!-- [![top languages][top_langs]][repo_tabs] [![github stats][stats]][repo_tabs] -->
-<!-- [top_langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=brunurd&layout=compact&langs_count=6&theme=radical
-[stats]: https://github-readme-stats.vercel.app/api?username=brunurd&count_private=true&show_icons=true&hide=issues&theme=radical
-[repo_tabs]: https://github.com/brunurd?tab=repositories -->
+**Current open source highlights**  
+
+|Project|Description|
+|-|-|
+|[Companion](https://github.com/brunurd/companion)|Small electronjs project focused on minimal browser experience.|
+
+---
+
+**Currenting studying**  
+
+[Neovim](https://github.com/brunurd/dotfiles) | [ANSI C](https://github.com/brunurd/c-studies) | [Kubernetes](https://github.com/brunurd/min-kube)
+
+---
+
+**Programming languages stats**  
+
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=brunurd&layout=compact&langs_count=10&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=brunurd&layout=compact&langs_count=10&theme=radical)
