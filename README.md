@@ -9,7 +9,5 @@ I currently work as software engineer at [Csitea](https://github.com/csitea) and
 </p>
 
 
-#### **🤓 Personal Stack**
-|JavaScript|React|C#|Unity|Python|Typescript|
-|-|-|-|-|-|-|
-|Terraform|Node.js|SQL|Docker|Bash|C++|
+### **🤓 Personal Stack**
+`Frontend` React, Svelte `Backend` Node.js, Python `IaC` Terraform + HCL `Native` C#, C++ `Game` Godot, Unity `OS` Pop!_OS
