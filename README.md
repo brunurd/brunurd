@@ -6,4 +6,4 @@ Tech Stack|Technologies|
 -|-|
 primary|`React` `Node.js` `C#`  `Unity` `Flutter`
 secondary|`Svelte` `Python` `C++` `Godot` `React Native`
-common|`Terraform` `Kubernetes` `Docker` `Bash` `Pop!_OS`
+common|`Terraform` `Kubernetes` `Docker` `Bash`
