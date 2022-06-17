@@ -1,6 +1,6 @@
 ## Bruno Araujo's profile
 Hi! 👋  
-I currently work as an IT specialist and consultant in my tech company [Komutilo](https://github.com/komutilo).  
+I currently work as an IT consultant in my tech company [Komutilo](https://github.com/komutilo).  
 
 Tech Stack|Technologies|
 -|-|
