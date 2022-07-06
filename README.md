@@ -1,6 +1,6 @@
 ## Bruno Araujo's profile
 Hi! 👋  
-I currently work as an IT consultant in my tech company [Komutilo](https://github.com/komutilo).  
+I currently work at [PayPal](https://github.com/paypal) and with other side projects in my company [Komutilo](https://github.com/komutilo).
 
 Tech Stack|Technologies|
 -|-|
