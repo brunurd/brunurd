@@ -1,3 +1,5 @@
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api?username=brunurd&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunurd&hide=c,shell&theme=onedark)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![profile-3d](./profile-3d-contrib/profile-night-green.svg) -->
 <!-- ## Hi there 👋 -->
 
